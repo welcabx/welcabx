@@ -26,5 +26,5 @@ class careerShifter:
 
 if __name__ == '__main__':
     me = careerShifter()
-    print(me.current_status())
+    print(me.about())
 ```
