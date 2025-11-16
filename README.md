@@ -21,8 +21,6 @@ class careerShifter:
                 f" I aim to merge and leverage my customer service and technical expertise with my growing development skills.\n"
                 f"Always eager to learn, collaborate and innovate.")
 
-    def current_status(self):
-        return f"We are in the process of moving so that is why I am inactive for a while here."
 
 if __name__ == '__main__':
     me = careerShifter()
