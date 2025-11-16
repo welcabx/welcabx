@@ -9,6 +9,8 @@ class careerShifter:
             "Pythoneer", "Home Network Support Expert", "Technophile"
         ]
         self.country = "Philippines"
+        self.province = "Pampanga"
+        self.city = "Angeles"
 
     def headline(self):
         return "Headline: {} | {} | {}".format(*self.roles)
