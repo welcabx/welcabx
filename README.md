@@ -18,7 +18,7 @@ class careerShifter:
                 f" A tech driven professional with over 6 years of experience in delivering exceptional customer support."
                 f" I specialize in providing technical support on home networking solutions.\n"
                 f"A self-taught developer with strong focus on Python."
-                f" I aim to merge and leverage my customer service expertise with my growing development skills.\n"
+                f" I aim to merge and leverage my customer service and technical expertise with my growing development skills.\n"
                 f"Always eager to learn, collaborate and innovate.")
 
     def current_status(self):
