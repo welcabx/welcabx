@@ -23,8 +23,11 @@ class careerShifter:
                 f" I aim to merge and leverage my customer service and technical expertise with my growing development skills.\n"
                 f"Always eager to learn, collaborate and innovate.")
 
+    def current_status(self):
+      return f"Currently working on my personal project privately. Struggling on time as a father and a technical support in call center. Still doing my best to be consistent!"
+
 
 if __name__ == '__main__':
     me = careerShifter()
-    print(me.about())
+    print(me.current_status())
 ```
